@@ -556,7 +556,7 @@ def get_partial_matches(constraints, session_location):
 
 # 10. RESPONSE GENERATORS & FORMATTERS
 def format_place_output(ranked_results, user_name, has_category=True, custom_prefix=None):
-    top_results = ranked_results[:3]
+    top_results = ranked_results[:5]
 
     if not top_results:
         return f"I couldn't find any places matching all your criteria, {user_name}."
@@ -674,7 +674,7 @@ def handle_followup_feature_question(msg_lower, last_places, user_name):
         else:
             reply += f"❌ <b>{idx}. {name}</b>: No explicit mention of <i>{detected_feature}</i> in details.<br>"
 
-    reply += "<br>Reply with 1, 2, or 3 to view full details for any option!"
+    reply += f"<br>Reply with 1 to {len(last_places)} to view full details for any option!"
     return reply
 
 def get_user_session():
@@ -747,12 +747,14 @@ def get_response():
             reply = f"❌ No explicit mention of <b>{detected_feature.title()}</b> for <b>{p_name}</b> in our records, {display_name}."
         return jsonify({"reply": reply})
 
-    # Step 4: Index Selection Routing (User replies "1", "2", or "3")
-    if u_session["last_places"] and (msg_lower in ["1", "2", "3", "option 1", "option 2", "option 3", "first", "second", "third"]):
+    # Step 4: Index Selection Routing (User replies "1", "2", "3", "4", or "5")
+    if u_session["last_places"] and (msg_lower in ["1", "2", "3", "4", "5", "option 1", "option 2", "option 3", "option 4", "option 5", "first", "second", "third", "fourth", "fifth"]):
         idx_map = {
             "1": 0, "option 1": 0, "first": 0,
             "2": 1, "option 2": 1, "second": 1,
             "3": 2, "option 3": 2, "third": 2,
+            "4": 3, "option 4": 3, "fourth": 3,
+            "5": 4, "option 5": 4, "fifth": 4,
         }
         selected_idx = idx_map.get(msg_lower)
 
@@ -812,7 +814,7 @@ def get_response():
 
     # Step 8: Return Top Results and Save State
     if ranked_results:
-        u_session["last_places"] = [item["place"] for item in ranked_results[:3]]
+        u_session["last_places"] = [item["place"] for item in ranked_results[:5]]
         u_session["fsm_context"] = "SEARCH_RESULTS"
         session.modified = True
         return jsonify({"reply": format_place_output(ranked_results, display_name, has_category=has_explicit_category, custom_prefix=custom_prefix)})

@@ -301,6 +301,27 @@
       "Google Maps": "https://maps.app.goo.gl/7jEoYMSdQQmUkbuq8"
     },
     {
+      "Business name": "Moon Bar & Café",
+      "Category": "Bar & Café / Restaurant",
+      "Municipality or city": "Bacarra",
+      "Address": "Brgy. 21, Bacarra, Ilocos Norte",
+      "Opening and closing hours": "Monday–Friday: 8:00 AM - 10:00 PM, \nSaturday–Sunday: 8:00 AM - 12:00 AM",
+      "Days open": "Monday–Sunday",
+      "Price range": "₱80-₱500",
+      "Features": [
+        "specialty coffee",
+        "refreshing beverages",
+        "and cocktails"
+      ],
+      "Short description": "A versatile café and bar in Bacarra offering a relaxing coffee shop experience by day and a cozy bar setting by night with drinks.",
+      "Keywords and synonyms": [
+        "Moon Bar & Cafe",
+        "Moon Bar Bacarra"
+      ],
+      "Source and date verified": "Not provided",
+      "Google Maps": null
+    },
+    {
       "Business name": "PLANAXIS Grill and Restaurant",
       "Category": "Grill & Restaurant / International & Local Fusion / \nEvent Venue",
       "Municipality or city": "Bacarra",
@@ -1593,6 +1614,30 @@
       "Google Maps": "https://maps.app.goo.gl/rkLz52A8JPpPXio56"
     },
     {
+      "Business name": "Jollibee - Batac",
+      "Category": "Fastfood",
+      "Municipality or city": "Batac",
+      "Address": "Brgy. 10-N Lacub, Marcos Avenue, Batac City, Ilocos \nNorte, Philippines",
+      "Opening and closing hours": "6:00 AM–10:00 PM",
+      "Days open": "Monday–Sunday",
+      "Price range": "₱80–₱300 per person",
+      "Features": [
+        "Drive-thru",
+        "Dine-in",
+        "Takeout"
+      ],
+      "Short description": "A main fast-food branch in Batac serving classic Filipino fast-food favorites like Chickenjoy, Jolly Spaghetti, and burgers.",
+      "Keywords and synonyms": [
+        "fastfood",
+        "burgers",
+        "fried chicken",
+        "Batac City",
+        "family dining"
+      ],
+      "Source and date verified": "Not provided",
+      "Google Maps": null
+    },
+    {
       "Business name": "Kingsland Lumber and Hardware",
       "Category": "Hardware & Construction",
       "Municipality or city": "Batac",
@@ -2054,7 +2099,7 @@
         "parking"
       ],
       "source": "Official MMSU website; no Facebook source used",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/9gmeobcq1TSUk77g9"
     },
     {
       "Business name": "Immaculate Conception Academy",
@@ -2081,7 +2126,7 @@
         "Catholic School Batac"
       ],
       "Source": "DepEd / Diocese of Laoag Catholic Educational System",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/Sezs37GcjKVUFtQLA"
     },
     {
       "Business name": "Batac Institute, Inc.",
@@ -2106,7 +2151,7 @@
         "Batac private school"
       ],
       "Source": "DepEd / PEAC / Schools Division of the City of Batac",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/9i93kMKYDYntxepr9"
     },
     {
       "Business name": "Batac National High School",
@@ -2130,7 +2175,7 @@
         "Batac High School"
       ],
       "Source": "Schools Division of Batac City / DepEd",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/b6mq8VpJ2d18QvPs8"
     },
     {
       "Business name": "Ferdinand E. Marcos Senior High School",
@@ -2154,7 +2199,7 @@
         "Senior High School Batac"
       ],
       "Source": "Schools Division of Batac City / DepEd",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/ftS4qEAz6wnM1yzt6"
     },
     {
       "Business name": "City of Batac National High School - Poblacion",
@@ -2178,7 +2223,7 @@
         "City of Batac NHS"
       ],
       "Source": "Schools Division of Batac City / DepEd",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/CDAsX1Ejb2uAcNSA8"
     }
   ],
   "Laoag": [
@@ -4474,52 +4519,30 @@
       "Google Maps": "https://maps.app.goo.gl/HN7UV9McTEB3kJPL9"
     },
     {
-      "Business name": "JNP General Merchandising",
-      "Category": "General Merchandise & Retail Store",
+      "Business name": "Laoag International Airport",
+      "Category": "International Airport",
       "Municipality or city": "Laoag",
-      "Address": "Laoag City Public Market, Brgy. 10, Laoag City, 2900 Ilocos Norte, Philippines",
-      "Opening and closing hours": "8:00 AM–6:00 PM",
-      "Days open": "Every day",
-      "Price range": "₱50–₱1,500+ (Retail items & household supplies)",
+      "Address": "Laoag City, Ilocos Norte 2900, Philippines",
+      "Hours": "Open 24 hours",
+      "Days open": "Monday–Sunday",
+      "Price range": "₱₱",
       "Features": [
-        "General merchandise and retail goods",
-        "Household supplies and plasticware",
-        "School and office supplies",
-        "Wholesale and retail buying options"
+        "Passenger terminal",
+        "Domestic and international flights",
+        "Airport transportation",
+        "Parking area available"
       ],
-      "Short description": "A general merchandise retail shop located near the Laoag City Public Market commercial area offering everyday household goods, plasticware, and retail merchandise.",
-      "Keywords and synonyms": [
-        "JNP General Merchandising",
-        "JNP Gen. Merchandising Laoag",
-        "JNP Laoag",
-        "general merchandise Laoag",
-        "retail store Laoag"
+      "description": "Laoag International Airport is the main airport serving Laoag City and the province of Ilocos Norte.",
+      "keywords": [
+        "airport",
+        "Laoag airport",
+        "Laoag International Airport",
+        "Laoag City",
+        "Gabu",
+        "parking"
       ],
-      "Google Maps": "https://maps.app.goo.gl/XukFHEMC9MRp4wau7"
-    },
-    {
-      "Business name": "Sand Dunes View Deck",
-      "Category": "Tourist Attraction & Observation Deck",
-      "Municipality or city": "Laoag",
-      "Address": "6HH2+55P, Laoag City, Ilocos Norte, Philippines",
-      "Opening and closing hours": "24 Hours",
-      "Days open": "Every day",
-      "Price range": "Free access / ₱2,500–₱3,500 for 4x4 ATV sand dune rides",
-      "Features": [
-        "Panoramic view of the La Paz / Paoay Sand Dunes",
-        "4x4 ATV and sandboarding activity drop-off point",
-        "Sunset and scenic photography spot",
-        "Open 24 hours"
-      ],
-      "Short description": "A popular observation deck and viewpoint offering panoramic views of the coastal sand dunes landscape in Ilocos Norte, serving as a hub for 4x4 off-road rides and sandboarding.",
-      "Keywords and synonyms": [
-        "Sand Dunes View Deck",
-        "Laoag Sand Dunes View Deck",
-        "La Paz Sand Dunes view point",
-        "Paoay Sand Dunes view deck",
-        "Ilocos sand dunes"
-      ],
-      "Google Maps": "https://maps.app.goo.gl/JrPpyoaHMhpiNjrT9"
+      "source": "Current local and airport information; no Facebook source used",
+      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
     },
     {
       "Business name": "Mariano Marcos State University - College of Teacher Education",
@@ -4543,30 +4566,7 @@
         "Teacher Education Laoag"
       ],
       "Source": "MMSU official website",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
-    },
-    {
-      "Business name": "Mariano Marcos State University - College of Industrial Technology",
-      "Category": "University",
-      "Municipality or city": "Laoag",
-      "Address": "P. Gomez Street, Laoag City, Ilocos Norte 2900",
-      "Hours": "Not specified",
-      "Days open": "Monday - Friday",
-      "Price range": "Free / Public University",
-      "Features": [
-        "College campus",
-        "Industrial Technology programs",
-        "Parking area available"
-      ],
-      "Description": "The College of Industrial Technology is an MMSU campus located along P. Gomez Street in Laoag City.",
-      "Keywords and synonyms": [
-        "MMSU CIT",
-        "MMSU Laoag",
-        "Mariano Marcos State University",
-        "College of Industrial Technology"
-      ],
-      "Source": "MMSU official website",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/tDCswgZLZAeLQsGE7"
     },
     {
       "Business name": "Shamrock Elementary School",
@@ -4588,7 +4588,7 @@
         "Shamrock School Laoag"
       ],
       "Source": "Schools Division Office of Laoag City",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/RJaPWmA5wqnY28qn8"
     },
     {
       "Business name": "Gabaldon Elementary School",
@@ -4610,7 +4610,7 @@
         "Gabaldon Elementary Laoag"
       ],
       "Source": "Schools Division Office of Laoag City",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/XZzxxNfLKLG2r2LU7"
     },
     {
       "Business name": "Northwestern University",
@@ -4634,7 +4634,7 @@
         "Northwestern University Ilocos Norte"
       ],
       "Source": "Northwestern University official website",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/GhDfQUqLP7h3jcVM6"
     },
     {
       "Business name": "Divine Word College of Laoag",
@@ -4660,7 +4660,7 @@
         "DWCL Laoag"
       ],
       "Source": "Divine Word College of Laoag / Waze",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/UGu4z2cZ1ZDJbFFG6"
     },
     {
       "Business name": "Northern Christian College, Inc.",
@@ -4685,7 +4685,7 @@
         "Christian College Laoag"
       ],
       "Source": "Northern Christian College official website / CHED / SDO Laoag City",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/a5RZMC8AKrvSYRL2A"
     },
     {
       "Business name": "STI College Laoag",
@@ -4713,7 +4713,7 @@
         "STI Ilocos Norte"
       ],
       "Source": "STI College official website",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/avx8oYp31qdoFRQi8"
     },
     {
       "Business name": "AMA Computer College - Laoag City",
@@ -4739,7 +4739,7 @@
         "AMA Computer University Laoag"
       ],
       "Source": "AMA University official website / DepEd / CHED",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/RJFzXS8soUE4UsR76"
     },
     {
       "Business name": "Data Center College of the Philippines of Laoag City, Inc.",
@@ -4765,7 +4765,7 @@
         "Data Center Laoag"
       ],
       "Source": "DepEd Region I / Data Center College of the Philippines",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/NVyM8gpGCABvXGzb7"
     },
     {
       "Business name": "Far East Computer Technology, Inc.",
@@ -4793,33 +4793,7 @@
         "Far East College Laoag"
       ],
       "Source": "DepEd / Schools Division Office of Laoag City / TESDA",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
-    },
-    {
-      "Business name": "World College of Aeronautics",
-      "Category": "College / Aviation School",
-      "Municipality or city": "Laoag",
-      "Address": "Airport Avenue, Brgy. 50 Buttong, KGKirk Building, Laoag City, Ilocos Norte 2900",
-      "Hours": "9:00 AM - 5:00 PM",
-      "Days open": "Monday - Friday",
-      "Price range": "Private College",
-      "Features": [
-        "Aviation education",
-        "Aircraft Maintenance Technology",
-        "2-year Associate program",
-        "CAAP-accredited aviation training",
-        "Parking area available"
-      ],
-      "Description": "World College of Aeronautics is an aviation educational institution in Laoag City offering a 2-year Associate in Aircraft Maintenance Technology program.",
-      "Keywords and synonyms": [
-        "World College of Aeronautics",
-        "WCA Laoag",
-        "WCA",
-        "World College Aeronautics Laoag",
-        "Aircraft Maintenance Technology Laoag"
-      ],
-      "Source": "Civil Aviation Authority of the Philippines / World College of Aeronautics",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/i4dEeVmVdJk6V7U69"
     },
     {
       "Business name": "Apicius Culinary Arts and Hotel Management, Inc.",
@@ -4848,7 +4822,7 @@
         "Hotel Management School Laoag"
       ],
       "Source": "Apicius Culinary Arts official website / TESDA / CTH",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/UaPsawzcWQzTwDh7A"
     }
   ],
   "San Nicolas": [
@@ -5355,7 +5329,7 @@
         "private school San Nicolas"
       ],
       "Source": "DepEd Region I / PEAC",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/PVBJBY5hUVQM5ni87"
     },
     {
       "Business name": "San Nicolas National High School",
@@ -5380,7 +5354,7 @@
         "public high school San Nicolas"
       ],
       "Source": "DepEd / NCDA",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/eCAjPCcG5LbgPXJRA"
     },
     {
       "Business name": "Bingao National High School",
@@ -5405,7 +5379,7 @@
         "public high school Bingao"
       ],
       "Source": "DepEd",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/qSEnJZeheEARHSM16"
     }
   ],
   "Paoay": [
@@ -5479,6 +5453,30 @@
         "Malacanang of the North Paoay"
       ],
       "Google Maps": "https://maps.app.goo.gl/nKP117Tpg8JZZqAb7"
+    },
+    {
+      "Business name": "JNP General Merchandising",
+      "Category": "General Merchandise & Retail Store",
+      "Municipality or city": "Laoag",
+      "Address": "Laoag City Public Market, Brgy. 10, Laoag City, 2900 Ilocos Norte, Philippines",
+      "Opening and closing hours": "8:00 AM–6:00 PM",
+      "Days open": "Every day",
+      "Price range": "₱50–₱1,500+ (Retail items & household supplies)",
+      "Features": [
+        "General merchandise and retail goods",
+        "Household supplies and plasticware",
+        "School and office supplies",
+        "Wholesale and retail buying options"
+      ],
+      "Short description": "A general merchandise retail shop located near the Laoag City Public Market commercial area offering everyday household goods, plasticware, and retail merchandise.",
+      "Keywords and synonyms": [
+        "JNP General Merchandising",
+        "JNP Gen. Merchandising Laoag",
+        "JNP Laoag",
+        "general merchandise Laoag",
+        "retail store Laoag"
+      ],
+      "Google Maps": "https://maps.app.goo.gl/XukFHEMC9MRp4wau7"
     },
     {
       "Business name": "Casa Doña Emilia Paoay",
@@ -5712,6 +5710,30 @@
       "Google Maps": "https://maps.app.goo.gl/WYumnVxecDEyuZho8"
     },
     {
+      "Business name": "Sand Dunes View Deck",
+      "Category": "Tourist Attraction & Observation Deck",
+      "Municipality or city": "Laoag",
+      "Address": "6HH2+55P, Laoag City, Ilocos Norte, Philippines",
+      "Opening and closing hours": "24 Hours",
+      "Days open": "Every day",
+      "Price range": "Free access / ₱2,500–₱3,500 for 4x4 ATV sand dune rides",
+      "Features": [
+        "Panoramic view of the La Paz / Paoay Sand Dunes",
+        "4x4 ATV and sandboarding activity drop-off point",
+        "Sunset and scenic photography spot",
+        "Open 24 hours"
+      ],
+      "Short description": "A popular observation deck and viewpoint offering panoramic views of the coastal sand dunes landscape in Ilocos Norte, serving as a hub for 4x4 off-road rides and sandboarding.",
+      "Keywords and synonyms": [
+        "Sand Dunes View Deck",
+        "Laoag Sand Dunes View Deck",
+        "La Paz Sand Dunes view point",
+        "Paoay Sand Dunes view deck",
+        "Ilocos sand dunes"
+      ],
+      "Google Maps": "https://maps.app.goo.gl/JrPpyoaHMhpiNjrT9"
+    },
+    {
       "Business name": "Jowtoo Natural Cuisine",
       "Category": "Restaurant",
       "Municipality or city": "Paoay",
@@ -5840,29 +5862,6 @@
       "Google Maps": "https://maps.app.goo.gl/8wgCCtaV4CoaFAhQ9"
     },
     {
-      "Business name": "Mariano Marcos State University - College of Industrial Technology Paoay Campus",
-      "Category": "University",
-      "Municipality or city": "Paoay",
-      "Address": "Brgy. San Isidro Road, Paoay, Ilocos Norte 2902",
-      "Hours": "Not specified",
-      "Days open": "Monday - Friday",
-      "Price range": "Free / Public University",
-      "Features": [
-        "College campus",
-        "Industrial Technology programs",
-        "Parking area available"
-      ],
-      "Description": "The Paoay Campus of Mariano Marcos State University College of Industrial Technology serves as an external campus of CIT in Paoay, Ilocos Norte.",
-      "Keywords and synonyms": [
-        "MMSU Paoay",
-        "MMSU CIT Paoay",
-        "Mariano Marcos State University Paoay",
-        "College of Industrial Technology Paoay"
-      ],
-      "Source": "MMSU official website",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
-    },
-    {
       "Business name": "Paoay National High School",
       "Category": "National High School",
       "Municipality or city": "Paoay",
@@ -5884,7 +5883,7 @@
         "PNHS Paoay"
       ],
       "Source": "DepEd / Schools Division of Ilocos Norte",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/5rxeSoaJWjjRzryt9"
     },
     {
       "Business name": "Paoay Lake National High School",
@@ -5908,7 +5907,7 @@
         "PLNHS"
       ],
       "Source": "DepEd / Schools Division of Ilocos Norte",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/PYKYnDkQVcTXRKQu7"
     },
     {
       "Business name": "Paoay North Institute, Inc.",
@@ -5933,7 +5932,7 @@
         "Paoay private school"
       ],
       "Source": "DepEd / Schools Division of Ilocos Norte",
-      "Google Maps": "https://maps.app.goo.gl/fafqmodTn3sWzzhD8"
+      "Google Maps": "https://maps.app.goo.gl/GfYt9inmvjK7ggGPA"
     }
   ]
 }
