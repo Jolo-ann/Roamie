@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roamie - Place Finder</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="background-overlay"></div>
+
+    <main class="chat-container">
+        <header class="chat-header">
+            <div class="header-brand">
+                <div class="logo-wrapper">
+                    <img src="{{ url_for('static', filename='assets/roamielg.png') }}" alt="Roamie Logo" class="brand-logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                    <div class="logo-fallback">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg>
+                    </div>
+                </div>
+                <div class="brand-text">
+                    <h2>Roamie</h2>
+                    <span class="subtitle">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+                        Local Place Finder
+                    </span>
+                </div>
+            </div>
+
+            <div class="header-actions">
+                <button type="button" class="about-btn" id="aboutBtn" title="About Roamie">
+                    ℹ️ About
+                </button>
+                <div class="status-badge">
+                    <span class="status-dot"></span>
+                    <span class="status-text">Online</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Message Box -->
+        <div class="chat-box" id="chat-box">
+            <div class="message bot-message">
+                <div class="message-content">
+                    Hello! I'm <strong>Roamie</strong>, your local place finder. 🗺️<br>
+                    May I know your name?
+                </div>
+            </div>
+        </div>
+
+        <form class="chat-input-area" id="chat-form">
+            <div class="input-wrapper">
+                <input type="text" id="user-input" placeholder="Type your message..." autocomplete="off" required>
+                <button type="submit" aria-label="Send message">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+                </button>
+            </div>
+            <div class="chat-footer">
+                <span>Developed by BSCS4 G2wo</span>
+            </div>
+        </form>
+    </main>
+
+    <div id="aboutModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn" id="closeModalBtn">&times;</span>
+            <div class="modal-header">
+                <h3>About Roamie 🗺️</h3>
+            </div>
+            <div class="modal-body">
+                <p>
+                    Roamie is a custom-built <strong>Natural Language Local Place Finder</strong> Midterm-Finals project designed to help users explore local venues in Ilocos Norte!
+                </p>
+                <ul class="modal-features">
+                    <li>🚫 <strong>No External AI APIs</strong> (0% dependencies on OpenAI, Gemini, or Claude)</li>
+                    <li>⚡ <strong>No Pre-made ML Classifiers</strong> or heavy machine learning models</li>
+                    <li>🔍 <strong>Pure Rule-Based NLP Architecture</strong> using custom TF-IDF lexical matching, regular expressions, and gazetteer-based entity extraction.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>
